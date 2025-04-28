@@ -13,7 +13,7 @@ We apply three regression models to predict prepayment timing based on borrower,
 - Multilayer Perceptron (MLP)
 
 ## Files Included
-- `mortgage_prepayment_analysis.ipynb`: Code for data preprocessing, model training, evaluation, and visualization. *(Replace with your real notebook name if different!)*
+- `mortgage_prepayment_analysis.ipynb`: Code for data preprocessing, model training, evaluation, and visualization. 
 - `Understanding_Mortgage_Prepayment_Timing_and_Its_Drivers.pdf`: Full project report including methods, model performance, and feature importance analysis.
 
 ## Dataset
